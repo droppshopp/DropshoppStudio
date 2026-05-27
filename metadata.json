@@ -1,0 +1,6 @@
+{
+  "name": "DropshoppStudio",
+  "description": "Vibrant and modern print-on-demand store featuring apparel, journals, custom gifts, drinkware, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
